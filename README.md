@@ -2,8 +2,6 @@
 
 How are you? First of all, I want to thank you for your interest in my profile and your time.
 
-![Banner](https://github.com/ignacio-caprara/ignacio-caprara/assets/169360596/19c0149a-4907-4886-8c30-0179f12fe0f0)
-
 👨‍🎓I am Ignacio, a curious, responsible, self-taught and active person in the world of data and its news. Persistent when it comes to problem solving and enthusiastic about data visualization with the creation of graphs and dashboards.
 I am studying a degree in Data Science at the University of Buenos Aires (UBA).
 
@@ -19,7 +17,9 @@ Because I consider that data is the best tool that exists to understand situatio
 Tableau
 
 -Databases: SQL
+
 -Data visualization: Tableau, Power BI
+
 -Data cleaning: Excel, Google Sheets
 
 More about me...
