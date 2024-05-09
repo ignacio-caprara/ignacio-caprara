@@ -22,6 +22,7 @@ Because I consider that data is the best tool that exists to understand situatio
 -Data cleaning: Excel, Google Sheets
 
 💬More about me...
+
 . Languages: Spanish (native) and English.
 
 . Strong communication, organization and analysis skills.
