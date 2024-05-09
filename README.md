@@ -14,7 +14,6 @@ Because I consider that data is the best tool that exists to understand situatio
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-Tableau
 
 -Databases: SQL
 
@@ -22,9 +21,11 @@ Tableau
 
 -Data cleaning: Excel, Google Sheets
 
-More about me...
+💬More about me...
 . Languages: Spanish (native) and English.
+
 . Strong communication, organization and analysis skills.
+
 . Self-taught practicing the Python programming language.
 
 
