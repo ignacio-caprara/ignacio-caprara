@@ -1,8 +1,9 @@
 ### Hi there, i am Ignacio Caprara 👋
 
-![image](https://github.com/ignacio-caprara/ignacio-caprara/assets/169360596/145c1160-0675-4cc4-9705-da6be462cd4e)
+![foto_fondo](https://github.com/ignacio-caprara/ignacio-caprara/assets/169360596/19c0149a-4907-4886-8c30-0179f12fe0f0)
 
-![foto_fondo](https://github.com/ignacio-caprara/ignacio-caprara/assets/169360596/e384d0a3-cf80-445a-9daf-b2eefb9b6121)
+![image](https://github.com/ignacio-caprara/ignacio-caprara/assets/169360596/60696dea-f214-4b33-a2d2-390eef6f3c8a)
+
 
 <!--
 **ignacio-caprara/ignacio-caprara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
