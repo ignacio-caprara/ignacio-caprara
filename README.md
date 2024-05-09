@@ -1,5 +1,7 @@
 ### Hi there, i am Ignacio Caprara 👋
 
+![image](https://github.com/ignacio-caprara/ignacio-caprara/assets/169360596/145c1160-0675-4cc4-9705-da6be462cd4e)
+
 ![foto_fondo](https://github.com/ignacio-caprara/ignacio-caprara/assets/169360596/e384d0a3-cf80-445a-9daf-b2eefb9b6121)
 
 <!--
