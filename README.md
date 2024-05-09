@@ -1,4 +1,4 @@
-## Hi there, i am Ignacio Caprara 👋
+# Hi there, i am Ignacio Caprara 👋
 
 How are you? First of all, I want to thank you for your interest in my profile and your time.
 
