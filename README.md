@@ -3,7 +3,6 @@
 How are you? First of all, I want to thank you for your interest in my profile and your time.
 
 👨‍🎓I am Ignacio, a curious, responsible, self-taught and active person in the world of data and its news. 
-<>
 Persistent when it comes to problem solving and enthusiastic about data visualization with the creation of graphs and dashboards.
 I am studying a degree in Data Science at the University of Buenos Aires (UBA).
 
