@@ -20,6 +20,8 @@ Because I consider that data is the best tool that exists to understand situatio
 
 -Databases: SQL
 
+-Programming Language: Python
+
 -Data visualization: Tableau, Power BI
 
 -Data cleaning: Excel, Google Sheets
